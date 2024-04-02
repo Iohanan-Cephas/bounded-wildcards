@@ -8,9 +8,9 @@ Here we have a script that is going to return the sum of the areas of a list of 
 Now, a script that copies the elements of a list to another one who can be more generic than the first.
 
 Below, we have the diagram of the wrapper types to aid in understanding the script 'Problem (2)' and to help grasp the Get/Put Principle as well.
-|Wrapper types||
-|--|--|
-|Object
+|Wrapper types|||
+|--|--|--|
+|Object|
 |l|
 |l|
 |l|
@@ -26,25 +26,25 @@ Below, we have the diagram of the wrapper types to aid in understanding the scri
 ||l|
 ||l|
 ||l|
-||~~~~~~~~~~~>Integer
+||~~~~~~~~~~~>|Integer|
 ||l|
 ||l|
 ||l|
-||~~~~~~~~~~~>Byte
+||~~~~~~~~~~~>|Byte|
 ||l|
 ||l|
 ||l|
-||~~~~~~~~~~~>Long
+||~~~~~~~~~~~>|Long|
 ||l|
 ||l|
 ||l|
-||~~~~~~~~~~~>Short
+||~~~~~~~~~~~>|Short|
 ||l|
 ||l|
 ||l|
-||~~~~~~~~~~~>Float
+||~~~~~~~~~~~>|Float|
 ||l|
 ||l|
 ||l|
-||~~~~~~~~~~~>Double
+||~~~~~~~~~~~>|Double|
 ||
